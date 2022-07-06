@@ -32,14 +32,12 @@
     cursor: pointer;
 }
 .donate-today{
-
     text-align: center;
     margin-top: 10%;
 }
 .donate-today h1{
     font-size: 40px;
 }
-
 .donate-today p{
     padding: 2% 30% 5%;
     font-weight: 300;
@@ -95,7 +93,6 @@
     font-weight: bold;
     cursor: pointer;
 }
-
 .donate-plan-heading{
     text-align: center;
     padding: 1% 0;
